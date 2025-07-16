@@ -1,0 +1,33 @@
+export const terminalCommands = [
+  'npm install @kevin/skills',
+  'git clone https://github.com/kevJ711/portfolio',
+  'cd ~/projects && ls -la',
+  'python --version && node --version',
+  'echo "Skills: React, Python, C++, ML"',
+  'cat skills.txt | grep "Advanced"',
+  'docker run --rm kevin/portfolio',
+  'aws s3 ls s3://kevin-bucket/projects/',
+];
+
+export const skillsData = [
+  { type: 'comment', text: '// Core Programming Languages' },
+  { type: 'keyword', text: 'const' },
+  { type: 'string', text: 'languages' },
+  { type: 'operator', text: '=' },
+  { type: 'array', text: '["Python", "C++", "JavaScript", "TypeScript"]' },
+  { type: 'comment', text: '// Frontend Technologies' },
+  { type: 'keyword', text: 'const' },
+  { type: 'string', text: 'frontend' },
+  { type: 'operator', text: '=' },
+  { type: 'array', text: '["React", "Next.js", "Tailwind CSS", "Three.js"]' },
+  { type: 'comment', text: '// Backend & DevOps' },
+  { type: 'keyword', text: 'const' },
+  { type: 'string', text: 'backend' },
+  { type: 'operator', text: '=' },
+  { type: 'array', text: '["Node.js", "Express", "Docker", "AWS"]' },
+  { type: 'comment', text: '// Machine Learning & AI' },
+  { type: 'keyword', text: 'const' },
+  { type: 'string', text: 'ml' },
+  { type: 'operator', text: '=' },
+  { type: 'array', text: '["TensorFlow", "PyTorch", "Scikit-learn", "Pandas"]' },
+]; 
