@@ -1,4 +1,4 @@
 # Kevin Jijon’s Developer Portfolio
 
-This site showcases my experience, projects, and interests in software engineering, AI, and research.
+This site showcases my experience and skillset.
 Built using React and Tailwind CSS, powered by Vite.
