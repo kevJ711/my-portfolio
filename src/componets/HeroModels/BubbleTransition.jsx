@@ -196,7 +196,7 @@ const BubbleTransition = ({ isActive, onNavigateToContact }) => {
                   <FaEnvelope size={16} className="sm:w-5 sm:h-5" />
                 </motion.a>
                 <motion.a
-                  href="/Kevin_Jijon_Resume.pdf"
+                  href="/Kevin.Jijon_Resume.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-8 h-8 sm:w-10 sm:h-10 rounded-full bg-gray-700 hover:bg-gray-600 flex items-center justify-center text-white transition-all duration-300 floating-icon"

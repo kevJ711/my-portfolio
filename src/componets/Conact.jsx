@@ -14,7 +14,7 @@ const Contact = () => {
       },
       {
         label: "Resume",
-        href: "/Kevin_Jijon_Resume.pdf",
+        href: "/Kevin.Jijon_Resume.pdf",
       },
     ];
   
