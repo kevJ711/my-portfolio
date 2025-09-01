@@ -42,8 +42,6 @@ my-portfolio/
 ├── .gitignore # Git ignored files
 └── README.md # Project documentation
 
-
-
 ---
 
 ## 🚀 Getting Started
@@ -53,6 +51,7 @@ my-portfolio/
 
 ### Installation
 ```bash ```
+
 # Clone the repository
 git clone https://github.com/kevJ711/my-portfolio.git
 cd my-portfolio
@@ -60,19 +59,21 @@ cd my-portfolio
 # Install dependencies
 npm install
 
-# Run locally
-npm run dev
+### Deployment
+The site is deployed using **Vercel**.  
+To create a production build locally:  
+```bash```
 
-Deployment
-
-The site is deployed using GitHub Pages. To create a production build:
-
-npm run build
-
+```npm run build```
 
 Then deploy using:
 
-npm run deploy
+```vercel deploy```
+
+## 📈 Future Improvements
+- Add a backend (Flask/Express) for a dynamic **contact form**  
+- Create a blog section with posts pulled from markdown or a CMS  
+- Add a dark mode toggle for accessibility  
 
 
 👤 Author
