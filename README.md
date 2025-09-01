@@ -76,7 +76,7 @@ Then deploy using:
 - Add a dark mode toggle for accessibility  
 
 ## 📸 Screenshot
-<img width="1920" height="1200" alt="Screenshot 2025-01-25 at 1 51 29 PM" src="https://github.com/user-attachments/assets/80200c49-57a2-48b4-b4d5-53f974c77ae3" />
+<img width="1910" height="959" alt="Screenshot 2025-08-31 at 7 59 44 PM 1" src="https://github.com/user-attachments/assets/b9dc7ab0-f2d0-4b5f-ac8b-9ab8b0e41ca4" />
 
 👤 Author
 
