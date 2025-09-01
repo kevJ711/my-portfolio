@@ -75,6 +75,8 @@ Then deploy using:
 - Create a blog section with posts pulled from markdown or a CMS  
 - Add a dark mode toggle for accessibility  
 
+## 📸 Screenshot
+<img width="1920" height="1200" alt="Screenshot 2025-01-25 at 1 51 29 PM" src="https://github.com/user-attachments/assets/80200c49-57a2-48b4-b4d5-53f974c77ae3" />
 
 👤 Author
 
